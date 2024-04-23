@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1018503014272:android:bb2733a1485264d52f8365",
+        "mobilesdk_app_id": "1:1018503014272:android:89ecf9ab4f50dcd62f8365",
         "android_client_info": {
-          "package_name": "com.proje.firebasedb"
+          "package_name": "com.masaoyun.firebasedb"
         }
       },
       "oauth_client": [],

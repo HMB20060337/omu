@@ -5,6 +5,5 @@ using UnityEngine;
 public class User
 {
     string Name;
-    int Id;
-    
+    int Id;  
 }
